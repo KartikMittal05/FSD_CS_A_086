@@ -26,6 +26,18 @@
 
 // let x=console.log(Symbol.keyFor(3));
 
+// function hello(params) {
+//     console.log("Hello user");
+// }
+// console.log(hello);
+// hello();
+function add(a,b) {
+return a+b;
+}
+let sum=add(10,20);
+console.log(sum);
+
+
 
 
 
