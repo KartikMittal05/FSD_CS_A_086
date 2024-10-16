@@ -96,3 +96,17 @@
 //succeses founded running -> resolve reject
 // call back hell probllem
 
+// async : await
+
+// ES-6 new features
+// let and const
+// arrow function
+// default parameter
+// spreading
+// destructufring
+// template literal
+// set and Map
+// filter()
+// Map()
+// reduce()
+// promise
