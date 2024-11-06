@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    background-color: yellow;
+  }
+  
+  .conatiner {
+    margin: auto;
+    padding: 16px;
+    background-color: white;
+    width: 50%;
+    min-height: fit-content;
+    margin-top: 25px;
+  }
+  
+  hr {
+  
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  
+  label {
+    font-weight: bolder;
+  }
+  
+  input[type="email"],
+  input[type="password"],
+  input[type="cpassword"] {
+    width: 90%;
+    height: 20px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="email"]:focus,
+  input[type="password"]:focus {
+    background-color: rgb(243, 228, 210);
+  }
+  
+  input[type="submit"] {
+    background-color: rgb(237, 42, 42);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 40%;
+    height: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="reset"] {
+    background-color: rgb(77, 240, 245);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 40%;
+    height: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: rgb(66, 209, 80);
+  }
+  
+  input[type="reset"]:hover {
+    background-color: rgb(10, 137, 46);
+  }
+  
+  .signin {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(216, 216, 244);
+    color: brown;
+    text-align: center;
+    padding-top: 5px;
+  }
